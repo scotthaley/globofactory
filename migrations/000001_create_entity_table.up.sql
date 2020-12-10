@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS entity(
+    code VARCHAR (50) PRIMARY KEY,
+    display VARCHAR (250) NOT NULL
+);
